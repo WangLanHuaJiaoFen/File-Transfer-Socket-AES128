@@ -1,0 +1,8 @@
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+exp1 = { path = "../exp1" }
+base64 = "0.22.1"
